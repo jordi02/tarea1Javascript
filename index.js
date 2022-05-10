@@ -15,7 +15,7 @@ while(juego!==resultado){
     if(juego===resultado)
 {
     alert ("GANASTE EL JUEGO")
-    stop
+    break
 }
 else{
     alert("INTENTA OTRA VEZ")
